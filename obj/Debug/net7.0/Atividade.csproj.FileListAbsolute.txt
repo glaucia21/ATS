@@ -1,0 +1,15 @@
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\jeffinha\OneDrive\Área de Trabalho\Senai23\Atividade\obj\Debug\net7.0\ref\Atividade.dll
